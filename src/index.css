@@ -1,0 +1,21 @@
+@import url("https://fonts.cdnfonts.com/css/wendy-one");
+@import url("https://fonts.cdnfonts.com/css/irish-grover");
+
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@layer {
+  img {
+    @apply object-cover;
+  }
+  .hero,
+  .about,
+  .mics {
+    background: url(./assets/bg1.svg) center center no-repeat;
+    background-size: cover;
+  }
+  svg{
+    @apply max-w-full
+  }
+}

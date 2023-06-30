@@ -13,6 +13,9 @@ const App = () => {
     Aos.init({
       easing: "linear",
     });
+    document.querySelectorAll("img").forEach((ele) => {
+      ele.setAttribute("loading", "lazy");
+    });
   }, []);
   return (
     <div className="relative min-h-screen w-full bg-lime-700 font-irishGrover text-white overflow-x-hidden">

@@ -26,9 +26,10 @@ const Hero = () => {
             className="w-[352px] text-white text-[16px] font-normal leading-loose"
             data-aos="fade-up"
           >
-            American dollar is loosing its value. Crypto Era is becoming
-            mainstream and there’s very chance that world adopts Ethereum as the
-            global leading{" "}
+            Introducing Pepaid, the hippest crypto project on Ethereum! It's so
+            cool, it defies gravity and taxes. Join us for an electrifying
+            journey where financial freedom is just a dance move away. No taxes,
+            all vibes! Let's groove to the beat of Pepaid! 🕺💃🚀
           </p>
           <div className="flex justify-center items-center relative">
             <div className="w-[300px] h-[300px] absolute bg-lime-200 rounded-full blur-[300px]" />

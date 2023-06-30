@@ -33,7 +33,7 @@ const Footer = () => {
 
         <article className="flex justify-between items-center">
           <a href="" className="font-wendyOne uppercase text-3xl">
-            prepaid
+            Pepaid
           </a>
           <div className="flex gap-5 justify-center items-center">
             <a href="">

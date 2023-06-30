@@ -9,7 +9,7 @@ const Header = () => {
           className="font-wendyOne uppercase text-3xl"
           data-aos="fade-up "
         >
-          prepaid
+          Pepaid
         </a>
         <div
           className="  px-8 py-[18px] bg-orange-500 rounded-[100px] flex-col justify-start items-start lg:inline-flex hidden"
